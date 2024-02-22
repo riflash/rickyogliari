@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>rickyogliari-com</title>
+    <link href="https://riflash.github.io/rickyogliari/feed.xml" rel="self" />
+    <link href="https://riflash.github.io/rickyogliari" />
+    <updated>2024-02-22T13:16:14+01:00</updated>
+    <author>
+        <name>Ricky</name>
+    </author>
+    <id>https://riflash.github.io/rickyogliari</id>
+
+    <entry>
+        <title>ricky ogliari [fi&#x3D;coffee] realizzazione siti web, ottimizzazione posizionamento sui motori di ricerca - SEO</title>
+        <author>
+            <name>Ricky</name>
+        </author>
+        <link href="https://riflash.github.io/rickyogliari/rickyogliaricom.html"/>
+        <id>https://riflash.github.io/rickyogliari/rickyogliaricom.html</id>
+        <media:content url="https://riflash.github.io/rickyogliari/media/posts/1/onde3.svg" medium="image" />
+
+        <updated>2024-02-22T13:16:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://riflash.github.io/rickyogliari/media/posts/1/onde3.svg" alt="" />
+                    ricky ogliari [fi=coffee] realizzazione siti web, ottimizzazione posizionamento sui motori di ricerca - SEO ...torno subito. [fi=coffee]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://riflash.github.io/rickyogliari/media/posts/1/onde3.svg" class="type:primaryImage" alt="" /></p>
+                <h1>ricky ogliari [fi=coffee]<br>realizzazione siti web, ottimizzazione posizionamento sui motori di ricerca - SEO</h1>
+<p> </p>
+<p>...torno subito.  [fi=coffee]</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300px" height="300px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 300 300" xmlns:xlink="http://www.w3.org/1999/xlink" id="HkV63k6AtG">
+    <style type="text/css">
+        @-webkit-keyframes BJBT31TRFf_rky9gaAKf_Animation{
+73.33%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}
+78.89%{-webkit-transform: scale(1.2, 1.2);transform: scale(1.2, 1.2);}
+83.33%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}
+0%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}
+100%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}}
+@keyframes BJBT31TRFf_rky9gaAKf_Animation{
+73.33%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}
+78.89%{-webkit-transform: scale(1.2, 1.2);transform: scale(1.2, 1.2);}
+83.33%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}
+0%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}
+100%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}}
+@-webkit-keyframes BJBT31TRFf_Animation{
+42.22%{opacity: 1;}
+48.89%{opacity: 0.2;}
+55.56%{opacity: 1;}
+0%{opacity: 1;}
+100%{opacity: 1;}}
+@keyframes BJBT31TRFf_Animation{
+42.22%{opacity: 1;}
+48.89%{opacity: 0.2;}
+55.56%{opacity: 1;}
+0%{opacity: 1;}
+100%{opacity: 1;}}
+@-webkit-keyframes BJBT31TRFf_rJxyxaAYf_Animation{
+10%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}
+26.67%{-webkit-transform: rotate(360deg);transform: rotate(360deg);}
+0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}
+100%{-webkit-transform: rotate(360deg);transform: rotate(360deg);}}
+@keyframes BJBT31TRFf_rJxyxaAYf_Animation{
+10%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}
+26.67%{-webkit-transform: rotate(360deg);transform: rotate(360deg);}
+0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}
+100%{-webkit-transform: rotate(360deg);transform: rotate(360deg);}}
+#HkV63k6AtG *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);transform-box: fill-box;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;}
+#SkvTnk6Ctz{fill: #EF9B11;}
+#BJBT31TRFf_rJxyxaAYf{-webkit-animation-name: BJBT31TRFf_rJxyxaAYf_Animation;animation-name: BJBT31TRFf_rJxyxaAYf_Animation;-webkit-transform-origin: undefined;transform-origin: undefined;}
+#BJBT31TRFf{-webkit-animation-name: BJBT31TRFf_Animation;animation-name: BJBT31TRFf_Animation;-webkit-transform-origin: undefined;transform-origin: undefined;}
+#BJBT31TRFf_rky9gaAKf{-webkit-animation-name: BJBT31TRFf_rky9gaAKf_Animation;animation-name: BJBT31TRFf_rky9gaAKf_Animation;-webkit-transform-origin: undefined;transform-origin: undefined;}
+    </style>
+    <g id="BJBT31TRFf_rJxyxaAYf" data-animator-group="true" data-animator-type="1">
+        <g id="BJBT31TRFf_rky9gaAKf" data-animator-group="true" data-animator-type="2">
+            <g id="BJBT31TRFf">
+                <metadata id="CorelCorpID_0Corel-Layer"/>
+                <g id="rJLTnkT0FM">
+                    <path id="SkvTnk6Ctz" fill-rule="nonzero" d="M132.259 97.711l9.76897 0 0 47.6207c17.5962,-31.8191 35.7682,-47.6915 54.5142,-47.6207 8.33215,0 15.3001,2.6575 20.8295,7.9725 5.60201,5.10063 8.40302,10.9897 8.47566,17.7415 0,6.10517 -2.08348,11.204 -6.10517,15.371 -3.95082,4.09255 -8.76267,6.17603 -14.3647,6.17603 -5.24414,0 -11.2767,-2.73014 -17.9559,-7.9725 -6.75182,-5.315 -11.7072,-7.89987 -15.0113,-7.89987 -2.58663,0 -5.60201,1.50769 -8.83531,4.4522 -6.9662,6.46481 -14.1485,16.8787 -21.547,31.3869l0 101.704c0,0.646659 0,1.29332 0,1.93998 2.58486,0.143505 5.315,0.214372 7.9725,0.28701 32.8237,-0.0726384 60.7647,-11.6363 83.9629,-34.9072 23.2709,-23.2 34.9072,-51.21 34.9072,-83.9629 0,-32.8237 -11.6363,-60.8355 -34.9072,-83.9629 -23.1982,-23.2709 -51.1392,-34.9072 -83.9629,-34.9072 -32.7528,0 -60.7647,11.6363 -83.9629,34.9072 -23.2726,23.1273 -34.9072,51.1392 -34.9072,83.9629 0,32.7528 11.6345,60.7629 34.9072,83.9629 11.4202,11.4928 24.061,20.112 37.779,26.001l0 -108.887c0,-1.58033 -0.430515,-4.52484 -1.22068,-8.83531 -0.216143,-1.14804 -0.503154,-2.15435 -0.86103,-3.15888 -1.14981,-3.16065 -2.73014,-5.60378 -4.74098,-7.32585 -2.80101,-2.15612 -6.1778,-3.23329 -10.1269,-3.23329 -4.74098,0.0726384 -9.98512,1.22068 -15.8741,3.59117l-2.514 -8.47566 63.78 -25.9284z"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "rickyogliari-com",
+    "description": "",
+    "home_page_url": "https://riflash.github.io/rickyogliari",
+    "feed_url": "https://riflash.github.io/rickyogliari/feed.json",
+    "user_comment": "",
+    "icon": "https://riflash.github.io/rickyogliari/media/website/riflash_animato.svg",
+    "author": {
+        "name": "Ricky"
+    },
+    "items": [
+        {
+            "id": "https://riflash.github.io/rickyogliari/rickyogliaricom.html",
+            "url": "https://riflash.github.io/rickyogliari/rickyogliaricom.html",
+            "title": "ricky ogliari [fi&#x3D;coffee] realizzazione siti web, ottimizzazione posizionamento sui motori di ricerca - SEO",
+            "summary": "ricky ogliari [fi=coffee] realizzazione siti web, ottimizzazione posizionamento sui motori di ricerca - SEO ...torno subito. [fi=coffee]",
+            "content_html": "<h1>ricky ogliari [fi=coffee]<br>realizzazione siti web, ottimizzazione posizionamento sui motori di ricerca - SEO</h1>\n<p> </p>\n<p>...torno subito.  [fi=coffee]</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://riflash.github.io/rickyogliari/media/posts/1/onde3.svg",
+            "author": {
+                "name": "Ricky"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-20T16:50:52+01:00",
+            "date_modified": "2024-02-22T13:16:14+01:00"
+        }
+    ]
+}

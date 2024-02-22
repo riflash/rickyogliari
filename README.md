@@ -1,2 +1,0 @@
-# rickyogliari
-rickyogliari
